@@ -1,0 +1,33 @@
+/* YOUR CUSTOM STYLES */
+
+.overlay-card {
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    z-index: 99;
+    text-align: center;
+    padding-top: 20%;
+    height: 100%;
+    width: 100%;
+    left:0;
+    top:0;
+}
+
+.base-card {
+    z-index: 98;
+}
+
+.text-style {
+    font-family:'Times New Roman';
+    font-size:20px;
+}
+
+.card {
+    min-height: 300px;
+}
+
+.image-vert {
+    max-height: 800px;
+    margin-left: 30%;
+}
