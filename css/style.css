@@ -31,3 +31,7 @@
     max-height: 800px;
     margin-left: 30%;
 }
+
+.carousel {
+    background-color:rgba(0,0,0,0.4);
+}
